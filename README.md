@@ -17,6 +17,9 @@ analyse lexicale, la reconnaissance de formes, la conception de circuits numéri
 
 ## Réalisation
 
+![image](https://github.com/Larmoire/Automate/assets/117120551/8c686609-370d-4662-9173-f9c5c4cafcf7)
+
+
 Dans ce travail pratique (TP), j'ai développé un analyseur d'automates qui peut accepter ou rejeter des chaînes de
 caractères en fonction de la configuration de l'automate. J'ai encodé et testé plusieurs types d'automates,
 notamment pour la reconnaissance de smileys, d'heures, de dates et de polynômes.
@@ -26,6 +29,9 @@ analyseur, j'ai mis en place une série de tests unitaires. Ces tests vérifient
 différentes entrées et configurations d'automates. Par exemple, pour l'automate "smiley", je teste si
 l'analyseur accepte correctement des chaînes comme ";-)" et rejette des chaînes comme ":-(".
 J'ai également testé des cas limites, comme des chaînes vides ou des chaînes contenant des caractères non valides.
+
+![image](https://github.com/Larmoire/Automate/assets/117120551/1350edc2-701c-4ac2-9093-973f24074c9e)
+
 
 L'architecture logicielle
 de l'application est organisée autour de deux classes principales : Automate et Etat. La classe Automate représente un
