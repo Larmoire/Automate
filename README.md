@@ -46,7 +46,11 @@ Un fichier JAR (Java
 Archive) est un format de fichier qui permet de regrouper plusieurs fichiers en un seul.
 
 Dans notre cas, il contient
-l'ensemble du code de l'application, ce qui permet de l'exécuter facilement. Pour exécuter le fichier JAR, vous devez
+l'ensemble du code de l'application, ce qui permet de l'exécuter facilement.
+
+Le fichier jar est téléchargeable [ici](https://github.com/Larmoire/Automate/raw/master/monAppli.jar)
+
+Pour exécuter le fichier JAR, vous devez
 avoir Java installé sur votre ordinateur. Si ce n'est pas le cas, vous pouvez le télécharger et l'installer à partir du
 site officiel de Java.
 
