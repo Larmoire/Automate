@@ -53,8 +53,11 @@ tapant cmd et en appuyant sur Entrée.
 Naviguez jusqu'au répertoire contenant le fichier JAR. Vous pouvez le faire en utilisant la commande cd. Par exemple, si
 votre fichier JAR est dans le répertoire C:\MonProjet, vous pouvez taper cd C:\MonProjet et appuyer sur Entrée.
 
-Une fois que vous êtes dans le bon répertoire, vous pouvez exécuter le fichier JAR en tapant java -jar
-monAppli.jar et en appuyant sur Entrée.
+Une fois que vous êtes dans le bon répertoire, vous pouvez exécuter le fichier JAR en tapant:
+
+```java -jar monAppli.jar```
+
+et en appuyant sur Entrée.
 
 C'est tout ! Votre application devrait maintenant s'exécuter.
 
