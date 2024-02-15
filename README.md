@@ -93,3 +93,5 @@ complété le texte pour le rendre plus clair et plus précis.
 Une partie des tests unitaires a été générée par Github Copilot. Ces tests me permettent de vérifier le bon
 fonctionnement de l'analyseur pour différentes configurations d'automates et d'entrées. J'ai également écrit des tests
 supplémentaires pour couvrir d'autres cas de figure.
+
+Le code complet comprenant les tests est disponible [ici](https://github.com/Larmoire/Automate/).
